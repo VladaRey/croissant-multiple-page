@@ -1,0 +1,33 @@
+
+h1 {
+    color: #FFB534;
+    text-align: center;
+}
+.croissant {
+    border: 8px solid #65B741;
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+.navigation-links {
+    display: flex;
+    justify-content: center;
+}
+.navigation-links a {
+    padding: 15px;
+    color: #65B741;
+}
+.container {
+    text-align: center;
+    border: 8px solid #FFB534;
+    border-radius: 8px;
+    display: block;
+    margin: 0 auto;
+    width: 600px;
+}
+.more-info {
+    text-align: center;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #FFB534;
+}
